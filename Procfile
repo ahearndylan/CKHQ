@@ -2,3 +2,8 @@ worker1: python bots/bot1/bot.py
 worker2: python bots/bot2/bot.py
 worker3: python bots/bot3/bot.py
 worker4: python bots/bot4/bot.py
+worker5: python offseason/bot5/bot.py
+worker6: python offseason/bot6/bot.py
+worker7: python offseason/bot7/bot.py
+worker8: python offseason/bot8/bot.py
+worker9: python offseason/bot9/bot.py
