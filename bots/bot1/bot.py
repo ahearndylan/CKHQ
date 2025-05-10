@@ -91,7 +91,7 @@ def compose_tweet(date_str, points, assists, rebounds, threes):
 🏹 3PT Leader
 {threes['player']} ({threes['team']}): {threes['value']} 3PM
 
-#NBA #NBAStats #CourtKingsHQ"""
+#NBAPlayoffs #CourtKingsHQ"""
 
 # ============================= #
 #   SAVE STATS TO SUPABASE      #
